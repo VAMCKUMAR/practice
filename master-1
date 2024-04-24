@@ -1,4 +1,8 @@
 This is a master-1 file
 Now I want to push this file to main of remote repo
+<<<<<<< HEAD
 This line is added from wanted branch from local repo
 this is a feature line
+=======
+added new line from master branch and try to push in to main branch
+>>>>>>> 226e07c043097717ff646fdb5d468a0a264cd0b8
