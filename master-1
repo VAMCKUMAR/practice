@@ -1,4 +1,8 @@
 This is a master-1 file
 Now I want to push this file to main of remote repo
 added new line from master branch and try to push in to main branch
+<<<<<<< HEAD
 changed in local for looking fetch
+=======
+observing fetch details
+>>>>>>> 027d02ef5ffe21731e8d2acf2b2a1cbbcee357cf
